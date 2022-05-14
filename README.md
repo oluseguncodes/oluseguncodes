@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oluseguncodes
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on anything web development
+- 💞️ I’m looking to collaborate on anything that has to do with web development
 - 📫 How to reach me olusegunbamgbelu555@gmail.com
 
 <!---
